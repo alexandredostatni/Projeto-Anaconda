@@ -1,6 +1,6 @@
 # TaskFlow - Minha primeira semana como Dev Júnior
 
-Este repositório simula EXATAMENTE como é a rotina de um engenheiro de software júnior em uma semna real de trabalho
+Este repositório simula EXATAMENTE como é a rotina de um engenheiro de software júnior em uma semana real de trabalho
 
 ### Funcionalidades implementadas em 5 dias:
 - Login/cadastro com JWT
